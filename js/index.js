@@ -2,7 +2,7 @@ const demosList = [
     {
         "companyName": "Educohire",
         "chatbotPublicId": "4c0aa5a8-8d51-4573-8230-eec6a91fb15c",
-        "page": "/educohire",
+        "page": "#educohire",
         "iframeURL": "https://www.educohire.com/",
         "backgroundImageURL": "https://tinyurl.com/9ff2d8d6", // failover if iframeURL has security rules preventing embed
     }
@@ -23,8 +23,7 @@ async function loadDemo() {
     // Now make the backgroundImageDiv
     for (let i = 0; i < demosList.length; i++) {
         const currentDemo = demosList[i];
-        // currentURL.includes(currentDemo["page"])
-        if (true) {
+        if (currentURL.includes(currentDemo["page"])) {
             // Create script tag for this particular demo
             const scriptTag = document.createElement("script");
 
