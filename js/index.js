@@ -1,7 +1,7 @@
 const demosList = [
     {
         "companyName": "Educohire",
-        "chatbotPublicId": "4c0aa5a8-8d51-4573-8230-eec6a91fb15c",
+        "chatbotPublicId": "712beb15-1de0-46d2-8aca-10a18c15a08a",
         "page": "#educohire",
         "iframeURL": "https://www.educohire.com/",
         "backgroundImageURL": "https://tinyurl.com/9ff2d8d6", // failover if iframeURL has security rules preventing embed
