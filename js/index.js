@@ -5,6 +5,13 @@ const demosList = [
         "page": "#educohire",
         "iframeURL": "https://www.educohire.com/",
         "backgroundImageURL": "https://tinyurl.com/9ff2d8d6", // failover if iframeURL has security rules preventing embed
+    },
+    {
+        "companyName": "BuiltFirst",
+        "chatbotPublicId": "26726d1a-1020-47c9-bb86-444344757463",
+        "page": "#builtfirst",
+        "iframeURL": "https://builtfirst.com",
+        "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2FScreen%20Shot%202023-10-25%20at%206.32.03%20PM.png?alt=media&token=f2c0c09d-c834-46da-bf2a-ae78476f8165", // failover if iframeURL has security rules preventing embed
     }
 ]
 
