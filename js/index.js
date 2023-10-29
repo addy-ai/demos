@@ -27,6 +27,13 @@ const demosList = [
         "iframeURL": "https://www.circleup.online/",
         "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2Fcircleup_site.png?alt=media&token=c67488bb-db6b-46f7-8fc4-eaae1807f0f8", // failover if iframeURL has security rules preventing embed
     },
+    {
+        "companyName": "VeritasVans",
+        "chatbotPublicId": "5e727075-60cd-4469-abc6-f13ba2a8534e",
+        "page": "#veritas",
+        "iframeURL": "https://veritasvans.com/",
+        "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2Fveritas_vans.png?alt=media&token=d6e98731-d6ca-4f9b-97ea-d3f1d146edec", // failover if iframeURL has security rules preventing embed
+    },
 
 ]
 
