@@ -34,6 +34,13 @@ const demosList = [
         "iframeURL": "https://veritasvans.com/",
         "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2Fveritas_vans.png?alt=media&token=d6e98731-d6ca-4f9b-97ea-d3f1d146edec", // failover if iframeURL has security rules preventing embed
     },
+    {
+        "companyName": "color",
+        "chatbotPublicId": "fd9350ae-2f8f-4055-83a6-02033646cdda",
+        "page": "#color",
+        "iframeURL": "https://veritasvans.com/",
+        "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2Fveritas_vans.png?alt=media&token=d6e98731-d6ca-4f9b-97ea-d3f1d146edec", // failover if iframeURL has security rules preventing embed
+    },
 
 ]
 
