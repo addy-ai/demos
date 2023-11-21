@@ -41,6 +41,13 @@ const demosList = [
         "iframeURL": "https://veritasvans.com/",
         "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2Fveritas_vans.png?alt=media&token=d6e98731-d6ca-4f9b-97ea-d3f1d146edec", // failover if iframeURL has security rules preventing embed
     },
+    {
+        "companyName": "nexgen",
+        "chatbotPublicId": "3e805c93-8bb2-4e53-b3b6-bb26b598bb8b",
+        "page": "#nexgen",
+        "iframeURL": "https://www.nexgencloud.com/",
+        "backgroundImageURL": "https://firebasestorage.googleapis.com/v0/b/hey-addy-chatgpt.appspot.com/o/public%2Fdemos%2Fnexgen-website.png?alt=media&token=8f2f4472-11ea-4ce4-a227-f935ca143cb3", // failover if iframeURL has security rules preventing embed
+    },
 
 ]
 
